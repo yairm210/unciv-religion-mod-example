@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Shrine", 
+		"maintenance": 1,
+		"cost": 40,
+		"faith": 1
+		"requiredTech": "Pottery"
+	},
+]
